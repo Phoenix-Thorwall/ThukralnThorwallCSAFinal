@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="BackgroundFrame">
+  <grid id="27dc6" binding="panel1" default-binding="true" layout-manager="BorderLayout" hgap="0" vgap="0">
+    <constraints>
+      <xy x="20" y="20" width="1234" height="925"/>
+    </constraints>
+    <properties/>
+    <border type="none"/>
+    <children>
+      <component id="b42c2" class="javax.swing.JLabel">
+        <constraints border-constraint="Center"/>
+        <properties>
+          <icon value="image5.jpg"/>
+          <text value="Label"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
